@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hectic-sovembharati
-- 👀 I’m interested in Coding,Ethical-Hacking,Cricket
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Programming,Ethical-Hacking,Cricket
+- 🌱 I’m currently learning React JS
 - 📫 How to reach me shobinbharati2074@gmail.com
 
 <!---

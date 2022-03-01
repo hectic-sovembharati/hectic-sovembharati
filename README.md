@@ -1,10 +1,4 @@
-- 
-- ![Hello, World!](https://user-images.githubusercontent.com/88200119/156171932-401bda43-cf97-4e3e-b925-35e6f7e33dfd.png)
-
-- 
-- 
-- 
-
+ ![Hello, World!](https://user-images.githubusercontent.com/88200119/156171932-401bda43-cf97-4e3e-b925-35e6f7e33dfd.png)
 - 👋 Hi, I’m @hectic-sovembharati
 - 👀 I’m interested in Programming,Ethical-Hacking,Cricket
 - 🌱 I’m currently learning React JS
